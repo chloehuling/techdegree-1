@@ -88,7 +88,7 @@ header .profile-image:hover {
   background-color: #222;
   color: white;
 }
-.card {
+.description {
   margin: 10px;
   padding: 20px 20px 40px;
   max-width: auto;
@@ -98,7 +98,7 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
-.card:hover {
+.description:hover {
   border-color: #ff99ff;
 }
 
